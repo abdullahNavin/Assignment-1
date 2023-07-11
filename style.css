@@ -130,6 +130,41 @@ header {
     max-width: 100%;
 }
 
-/* .futureimgdiv{
-    align-items: center;
-} */
+/* hotdealS */
+
+.hotdealS{
+    background: #fdedf1;
+}
+.hotdealcontent{
+    display: flex;
+    gap: 10%;
+}
+.hotdealText{
+    padding: 102px 0 40px 0;
+    width: 60%;
+    text-align: center;
+}
+.hotdealText h6 {
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.hotdealText span{
+    color: #E55473;
+}
+.hotdealText p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+}
+.hotdealText button{
+    margin-top: 20px;
+    display: inline-block;
+}
+.hotdealImg{
+    width: 40%;
+}
+.hotdealImg img {
+    max-width: 50%;
+    padding: 35px 0 20px 20px;
+}
