@@ -215,3 +215,69 @@ header {
     justify-content: center;
     align-items: center;
 }
+
+
+/* latestdS */
+
+.latestdS{
+    margin-bottom: 60px;
+}
+.latestDcontent {
+    background-image: url('./Flower\ Asset/Rectangle 9.png');
+    padding: 115px 40px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.latestDtext{
+    text-align: center;
+}
+.latestDtext h6 {
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.latestDtext p{
+    color: #27272799;
+
+}
+.latestDForm{
+    text-align: center;
+    margin-top: 20px;
+}
+.latestDForm input[type=email] {
+    border: none;
+    padding: 12px 17px;
+    width: 398px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+
+/* footerS */
+
+.footerS{
+    background: #111010;
+}
+.footercontent {
+    padding: 65px 350px;
+    text-align: center;
+}
+.footercontent h5{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.footercontent span{
+    color: #E55473;
+}
+.footercontent p{
+    color: rgba(255, 255, 255, 0.90);
+    margin-bottom: 20px;
+
+}
+.footercontent small{
+    color: rgba(255, 255, 255, 0.40);
+
+}
